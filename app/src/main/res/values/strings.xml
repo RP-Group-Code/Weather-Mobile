@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ruli Weather</string>
+
+    <string-array name="city_list">
+        <item>Palembang</item>
+        <item>Medan</item>
+        <item>Surabaya</item>
+        <item>Bandung</item>
+    </string-array>
+</resources>
